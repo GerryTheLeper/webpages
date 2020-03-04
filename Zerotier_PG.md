@@ -8,7 +8,7 @@
     <img src="https://i.imgur.com/KEmtvdO.jpg" alt="Logo">
   </a>
 </p>
-<h3 align="center"><font size="10">☠Pirate-Gaming  Zerotier Guide</font>
+<h3 align="center"><font size="10">Pirate Gaming  Zerotier Guide</font>
 </h3><h2 id="setup">Setup</h2>
 <ol>
 <li>
@@ -23,7 +23,7 @@ Download and install <a href="https://www.zerotier.com/download/">Zerotier</a></
 <p>)
 
 
-3. Join the ☠ Pirate-Gaming ☠ Network ID <strong>a09acf0233129d7c</strong>. Tick all the boxes. Click “Join”.</p>
+3. Join the Pirate Gaming Network ID <strong>a09acf0233129d7c</strong>. Tick all the boxes. Click “Join”.</p>
 <p><img src="https://i.imgur.com/jZfvmIF.png" alt="image2"></p>
 </li>
 <li>
@@ -88,5 +88,5 @@ If you are having any issues please go to the <a href="https://discord.gg/M3ttTT
 </p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTE5ODg1N119
+eyJoaXN0b3J5IjpbMTcyMzE2NDkyNV19
 -->
