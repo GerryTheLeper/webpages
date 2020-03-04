@@ -2,14 +2,14 @@
 
 <p align="center">
   <a>
-    <img src="https://i.imgur.com/YsZB8f8.png" alt="Logo" width=300 height=300>
+    <img src="https://i.imgur.com/KEmtvdO.jpg" alt="Logo">
   </a>
 
   
 </p>
 
 <h3 align="center"><font size="10">☠Pirate-Gaming ☠ Zerotier Guide</font>
----------------------------
+
 
  
 
@@ -80,8 +80,8 @@
 
 If you are having any issues please go to the [Pirate Gaming Discord Server](https://discord.gg/M3ttTTJ) and DM @GerryTheLeper or @Danneh
 
-![leper](https://i.imgur.com/iGW03XF.png)
-![PG_inv](https://i.imgur.com/KEmtvdO.jpg)
+![leper](https://i.imgur.com/iGW03XF.png) ![leper](https://i.imgur.com/iGW03XF.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzOTkxMDc2XX0=
+eyJoaXN0b3J5IjpbMTE5MjY5MDYyNywzODM5OTEwNzZdfQ==
 -->
