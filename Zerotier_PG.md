@@ -8,22 +8,26 @@
     <img src="https://i.imgur.com/KEmtvdO.jpg" alt="Logo">
   </a>
 </p>
-<h3 align="center"><font size="10">☠Pirate-Gaming ☠ Zerotier Guide</font>
+<h3 align="center"><font size="10">☠Pirate-Gaming  Zerotier Guide</font>
 </h3><h2 id="setup">Setup</h2>
 <ol>
 <li>
-<p>Download and install <a href="https://www.zerotier.com/download/">Zerotier</a></p>
+<p>
+Download and install <a href="https://www.zerotier.com/download/">Zerotier</a></p>
 </li>
 <li>
 <p>After installation, right click on the Zerotier icon in your system tray and click “Join Network”</p>
 <p><img src="https://i.imgur.com/YuDb6bk.png" alt="image1"></p>
 </li>
 <li>
-<p>Join the ☠ Pirate-Gaming ☠ Network ID <strong>a09acf0233129d7c</strong>. Tick all the boxes. Click “Join”.</p>
+<p>)
+
+
+3. Join the ☠ Pirate-Gaming ☠ Network ID <strong>a09acf0233129d7c</strong>. Tick all the boxes. Click “Join”.</p>
 <p><img src="https://i.imgur.com/jZfvmIF.png" alt="image2"></p>
 </li>
 <li>
-<p>Join the the <a href="https://discord.gg/M3ttTTJ">Pirate Gaming Discord Server</a> and DM @GerryTheLeper or or @Danneh with your <strong>Node ID</strong> (see image below) and they will authorise your connection.</p>
+<p>Join the the <a href="https://discord.gg/M3ttTTJ">erver</a> and DM @GerryTheLeper or or @Danneh with your <strong>Node ID</strong> (see image below) and they will authorise your connection.</p>
 <p><img src="https://i.imgur.com/W8aY5OJ.png" alt="image3"></p>
 </li>
 <li>
@@ -38,12 +42,12 @@
 <p>See if you can connect to a LAN server hosted on the network as this is the only sure-fire way to test the connection.</p>
 </li>
 <li>
-<p>Finally, it’s <strong>highly recommended</strong> that you change your IPv4 metric to 1.</p>
+<p>Finally, it’'s <strong>**highly recommended</strong> that you change your IPv4 metric to 1.</p>
 </li>
 </ol>
 <ul>
 <li>
-<p>Go to Control Panel → Network and Sharing Centre → Click on the Zerotier network</p>
+<p>Go to Control Panel  Network and Sharing Centre → Click on the Zerotier network</p>
 <p><img src="https://i.imgur.com/KFavq4z.png" alt="image21"></p>
 </li>
 <li>
@@ -69,15 +73,20 @@
 <h1 id="troubleshooting">Troubleshooting</h1>
 <h2 id="check-your-network-connections-to-make-sure-there-isn’t-more-than-one-zerotier">Check your network connections to make sure there isn’t more than one Zerotier</h2>
 <ol>
-<li>Go to Control Panel -&gt; Network and Internet -&gt; Network and sharing centre -&gt; Change adapter settings (on the left).</li>
+<li>Go to Control Panel -&gt;> Network and Internet -&gt; Network and sharing centre -&gt; Change adapter settings (on the left).</li>
 <li>You will see a window like below. Make sure there is only one Zerotier One network connected. If there are multiple, disable the other ones.<br>
 <img src="https://i.imgur.com/amRQgjj.png" alt="image31"></li>
 </ol>
 <h2 id="discord-support">Discord Support</h2>
-<p>If you are having any issues please go to the <a href="https://discord.gg/M3ttTTJ">Pirate Gaming Discord Server</a> and DM @GerryTheLeper or @Danneh</p>
+<p>
+
+If you are having any issues please go to the <a href="https://discord.gg/M3ttTTJ">Pirate Gaming Discord Server</a>[Pirate Gaming Discord S and DM @GerryTheLeper or @Danneh</p>
 <p align="center">
   <a>
-    <img src="https://i.imgur.com/eieSi4o.png" height="400" alt="Logo"> <img src="https://i.imgur.com/3hCEYmv.png" height="400" alt="Logo">
+    <img src="https://i.imgur.com/eieSi4o.png" height="400" alt="Logo" > <img src="https://i.imgur.com/3hCEYmv.png" height="400" alt="Logo" >
   </a>
 </p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM5OTE5ODg1N119
+-->
