@@ -5,7 +5,7 @@
 
 <p align="center">
   <a>
-    <img src="https://i.imgur.com/KEmtvdO.jpg">
+    <img src="https://i.imgur.com/KEmtvdO.jpg" width="700">
   </a>
 </p>
 <h3 align="center"><font size="10">Pirate Gaming Zerotier Guide</font>
