@@ -1,8 +1,3 @@
----
-
-
----
-
 <p align="center">
   <a>
     <img src="https://i.imgur.com/KEmtvdO.jpg" width="700">
