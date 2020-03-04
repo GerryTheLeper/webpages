@@ -80,8 +80,8 @@
 
 If you are having any issues please go to the [Pirate Gaming Discord Server](https://discord.gg/M3ttTTJ) and DM @GerryTheLeper or @Danneh
 
-![leper](https://i.imgur.com/ei.png) 
-![danneh](https://i.imgur.com/3.png)
+![leper]() 
+![danneh](https://i.imgur.com/3hCEYmv.png =100px)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4NTgxMjJdfQ==
+eyJoaXN0b3J5IjpbLTU2NjAzODM1NV19
 -->
