@@ -82,11 +82,11 @@ If you are having any issues please go to the [Pirate Gaming Discord Server](htt
 
 <p align="center">
   <a>
-    <img src="https://i.imgur.com/3hCEYmv.png"  alt="Logo">
+    <img src="https://i.imgur.com/eieSi4o.png" height="400" alt="Logo" > <img src="https://i.imgur.com/3hCEYmv.png" height="400" alt="Logo" >
   </a>
 
   
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjU5MzQxMywtNTY2MDM4MzU1XX0=
+eyJoaXN0b3J5IjpbMjQwMDUwODExLC01NjYwMzgzNTVdfQ==
 -->
