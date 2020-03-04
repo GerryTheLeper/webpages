@@ -1,4 +1,37 @@
-<p align="center">
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zerotier_PG</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li>
+<ul>
+<li></li>
+<li><a href="#setup">Setup</a></li>
+</ul>
+</li>
+<li><a href="#troubleshooting">Troubleshooting</a>
+<ul>
+<li><a href="#check-your-network-connections-to-make-sure-there-isn’t-more-than-one-zerotier">Check your network connections to make sure there isn’t more than one Zerotier</a></li>
+<li><a href="#discord-support">Discord Support</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <p align="center">
   <a>
     <img src="https://i.imgur.com/KEmtvdO.jpg">
   </a>
@@ -72,3 +105,8 @@
 <p>If you are having any issues please go to the <a href="https://discord.gg/M3ttTTJ">Pirate Gaming Discord Server</a> and DM @GerryTheLeper or @Danneh</p>
 <p><img src="https://i.imgur.com/eieSi4o.png" height="400"> <img src="https://i.imgur.com/3hCEYmv.png" height="400"></p>
 
+    </div>
+  </div>
+</body>
+
+</html>
